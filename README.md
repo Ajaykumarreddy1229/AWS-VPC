@@ -1,4 +1,4 @@
-# AWS VPC — Learning Notes
+# AWS VPC 
 
 ## 1. What is VPC?
 
